@@ -1,0 +1,11 @@
+C:\Users\Asian Land\source\repos\CustomTextBox\CustomTextBox\bin\Debug\CustomTextBox.exe.config
+C:\Users\Asian Land\source\repos\CustomTextBox\CustomTextBox\bin\Debug\CustomTextBox.exe
+C:\Users\Asian Land\source\repos\CustomTextBox\CustomTextBox\bin\Debug\CustomTextBox.pdb
+C:\Users\Asian Land\source\repos\CustomTextBox\CustomTextBox\obj\Debug\CustomTextBox.csproj.AssemblyReference.cache
+C:\Users\Asian Land\source\repos\CustomTextBox\CustomTextBox\obj\Debug\CustomTextBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asian Land\source\repos\CustomTextBox\CustomTextBox\obj\Debug\CustomTextBox.Form1.resources
+C:\Users\Asian Land\source\repos\CustomTextBox\CustomTextBox\obj\Debug\CustomTextBox.Properties.Resources.resources
+C:\Users\Asian Land\source\repos\CustomTextBox\CustomTextBox\obj\Debug\CustomTextBox.csproj.GenerateResource.cache
+C:\Users\Asian Land\source\repos\CustomTextBox\CustomTextBox\obj\Debug\CustomTextBox.csproj.CoreCompileInputs.cache
+C:\Users\Asian Land\source\repos\CustomTextBox\CustomTextBox\obj\Debug\CustomTextBox.exe
+C:\Users\Asian Land\source\repos\CustomTextBox\CustomTextBox\obj\Debug\CustomTextBox.pdb
